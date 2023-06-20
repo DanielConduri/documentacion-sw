@@ -1,0 +1,73 @@
+.section1{
+    /*font-size: large;
+    background-color: rgb(153, 228, 255);
+    border-radius: 10%;*/
+
+}
+
+a{
+    display: block;
+    width: 75%;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    /*background-color: rgb(187, 227, 243);*/
+    background-color:rgba(121, 205, 244, 0.223);
+    border-radius: 10px;
+    padding: 5px 10px;
+    color: rgb(1, 12, 95);
+    margin-left: 140px;
+    text-align: left;
+
+}
+a:hover{
+    background-color: transparent;
+    border: 2px solid rgb(187, 227, 243);
+    color: rgb(1, 12, 95);
+}
+
+/*------------------------------BUTTON----------------------*/
+button{
+    background-color: rgb(187, 227, 243);
+    /*background-color: rgba(121, 205, 244, 0.223);*/
+    border-radius: 10px;
+    font-weight: 700;
+    width: 75%;
+    padding: 5px 10px;
+    font-size: large;
+}
+button:hover{
+    background-color: transparent;
+    border: 2px solid  rgba(121, 205, 244, 0.223);
+    /*border: 2px solid rgb(121, 205, 244);*/
+    color: rgb(0, 0, 0);
+}
+
+.cont h3{
+    font-size: 70px;
+}
+
+.integrantes{
+    display: block;
+    background-color: rgba(121, 205, 244, 0.223);
+    border-radius: 20px;
+    width: 75%;
+    margin-left: 140px;
+}
+.integrantes h1{
+    color: rgb(1, 12, 95);
+    font-weight: 600;
+}
+
+.integrantes:hover{
+    background-color: transparent;
+    border: 2px solid  rgba(121, 205, 244, 0.223);
+    /*border: 2px solid rgb(121, 205, 244);*/
+    color: rgb(0, 0, 0);
+}
+
+.cont h2{
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+    font-size: 30px;
+}
